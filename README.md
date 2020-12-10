@@ -10,7 +10,7 @@ Requerimientos:
 
 Ejecución:
 - Abrir la carpeta que contiene el proyecto (JuegoDeTriki) desde Netbeans, con la opción Open Project.
-- Buscar el archivo principal de ejecución en la dirección "JuegoDeTriki\src\juegodetriki.java" y ejecutarlo
+- Buscar el archivo principal de ejecución en la dirección "JuegoDeTriki\src\juegodetriki.java" y ejecutarlo.
 - En la consola se iniciará el juego y terminará cuando no hayan más jugadas disponibles o cuando uno de los jugadores haya ganado.
 
 
