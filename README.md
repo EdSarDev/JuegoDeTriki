@@ -1,6 +1,6 @@
 # JuegoDeTriki
 Esta es una versión básica y la primera del clásico juego de "Triki", diseñada para 2 jugadores.
-Desarrolada por: Edilson Sarmiento Alonso [edilsarmientoa@gmail.com]
+Desarrollada por: Edilson Sarmiento Alonso [edilsarmientoa@gmail.com]
 
 Desarrollada con el lenguaje Java y Programación Orientada a Objetos, usando el IDE Netbeans.
 
